@@ -1,7 +1,5 @@
-setup-rust:
 
-	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-setup-skate:
+setup:
 	mkdir ~/skate/
 	mkdir ~/skate/bin
 	mkdir ~/skate/deps
