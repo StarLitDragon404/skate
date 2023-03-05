@@ -1,0 +1,1 @@
+<h1>Welcome to Skate-lang's documentation</h1>
