@@ -27,10 +27,7 @@ First clone the skate github repo with the following command
 
 then type
 
-``cd skate;
-make setup;
-make compile
-``
+``cd skate;make setup;make compile``
   
 
 now add the following to your .bashrc file
