@@ -8,10 +8,15 @@ Feel free to contribute to Skate's development on GitHub!
 ~~~
 Installation 
 ~~~
+
 Requirements:
+
 git
+
 cargo & rust
+
 GNU Make
+
 ~~~
 Directions for linux:
 
@@ -23,8 +28,11 @@ git clone https://github.com/StarLitDragon404/skate.git
 then type
 ```
 cd skate
+
 make setup
+
 make compile
+
 ```
 now add the following to your .bashrc file
 ```
