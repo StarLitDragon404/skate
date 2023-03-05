@@ -27,9 +27,11 @@ First clone the skate github repo with the following command
 
 then type
 
-``cd skate 
-make setup
-make compile``
+.. code-block:: bash
+  cd skate \
+  make setup \
+  make compile
+  
 
 now add the following to your .bashrc file
 
