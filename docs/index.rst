@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Skate Homepage</title>
-    
-  </head>
-  <body>
-	<h1 style="font-size: 30px">Welcome to the Skate Programming language documentation</h1>
-  </body>
-</html>
+Welcome to the documentation of the Skate programming language!
+
+Here, you will find the documentation for all the built-in features of Skate, along with plenty of examples to help you get started. You will also find documentation for the Standard library on this page.
+
+Feel free to contribute to Skate's development on GitHub!
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
